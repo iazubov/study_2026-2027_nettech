@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-COURSE = 
+COURSE = nettech
 
 .PHONY: all clean
 
